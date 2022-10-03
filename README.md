@@ -42,7 +42,7 @@ Estão dentro do arquivo de fonte `icones.ttf`. Para usar, primeiro importe a fo
 ```css
 @font-face {
     font-family: 'icones';
-    src: url(assets/font/icones.ttf);
+    src: url(flex-e-grid-main/assets/font/icones.ttf);
 }
 ```
 
