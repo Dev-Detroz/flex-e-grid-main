@@ -42,7 +42,7 @@ Estão dentro do arquivo de fonte `icones.ttf`. Para usar, primeiro importe a fo
 ```css
 @font-face {
     font-family: 'icones';
-    src: url(../font/icones.ttf);
+    src: url(assets/font/icones.ttf);
 }
 ```
 
@@ -70,7 +70,7 @@ Pinturas = `\e90a`
 
 Play = `\e90b`
 
-Relogio = `\e90c`
+Relógio = `\e90c`
 
 Seta-baixo = `\e90d`
 
